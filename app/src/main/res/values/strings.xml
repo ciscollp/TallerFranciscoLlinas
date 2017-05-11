@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">CarrosApp</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="modelo">Modelo</string>
+    <string name="marca">Marca</string>
+    <string name="color">Color</string>
+    <string name="placa">Placa</string>
+    <string-array name="opciones">
+        <item>Registrar Carros</item>
+        <item>Listar Carros</item>
+        <item>Reportes</item>
+    </string-array>
+    <string-array name="reportes">
+        <item>No de Carros Registrados</item>
+        <item>No de Carros Registrados por Marca</item>
+        <item>No de Carros Registrados por Color</item>
+        <item>Listado de Carros cuyo modelo este entre 2010 y 2015</item>
+        <item>Datos del Carro mas Caro Registrado</item>
+        <item>Datos del Carro mas Economico Registrado</item>
+    </string-array>
+    <string-array name="listaColor">
+        <item>Negro</item>
+        <item>Azul</item>
+        <item>Rojo</item>
+    </string-array>
+    <string-array name="listaModelo">
+        <item>2010</item>
+        <item>2016</item>
+        <item>2012</item>
+    </string-array>
+    <string-array name="listaMarca">
+        <item>KIA</item>
+        <item>Nissan</item>
+        <item>Mitsubishi</item>
+    </string-array>
+    <string name="precio">Precio</string>
+    <string name="guardar">guardar</string>
+    <string name="cancelar">cancelar</string>
+    <string name="titulo">Agregar Carro</string>
+    <string name="alerta1">Digite Modelo</string>
+    <string name="alerta2">Digite Marca</string>
+    <string name="alerta3">Digite Color</string>
+    <string name="alerta4">Digite Placa</string>
+    <string name="alerta5">Digite Precio</string>
+    <string name="alerta6">Agregado Exitosamente</string>
+    <string name="reporte1">No de Carros Registrados</string>
+    <string name="reporte2">No de Carros por Marcas Registradas</string>
+    <string name="reporte3">No de Carros por Color Registrados</string>
+    <string name="reporte5">Datos de Carro mas caro Registrado</string>
+    <string name="reporte6">Datos de Carro mas economico Registrado</string>
+
+
+</resources>

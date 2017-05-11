@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancelar">Cancel</string>
+    <string name="color">Colour</string>
+    <string name="guardar">Save</string>
+    <string name="marca">Brand</string>
+    <string name="modelo">Model</string>
+    <string name="precio">Price</string>
+    <string name="titulo">Add Car</string>
+    <string name="alerta6">Succefull</string>
+    <string name="alerta5">Price Required</string>
+    <string name="alerta4">Name Required</string>
+    <string name="alerta3">Colour Required</string>
+    <string name="alerta2">Brand Required</string>
+    <string name="alerta1">Model Required</string>
+    <string name="placa"></string>
+    <string-array name="opciones">
+        <item>Register Cars</item>
+        <item>Car List</item>
+        <item>Reports</item>
+    </string-array>
+    <string-array name="reportes">
+        <item>No of Registered Cars</item>
+        <item>No of Registered Cars by Mark</item>
+        <item>No of Registered Cars by Colour</item>
+        <item>Cars with a Model between 2010 and 2015</item>
+        <item>Expensive's Car Data</item>
+        <item>Cheapest's Car Data</item>
+    </string-array>
+    <string-array name="listaColor">
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Red</item>
+    </string-array>
+    <string name="reporte1">Numer of Cars</string>
+    <string name="reporte2">Number of Cars per Registered Mark</string>
+    <string name="reporte3">Number of Cars per Registered Colours</string>
+    <string name="reporte5">Expensive\'s Car Data</string>
+    <string name="reporte6">Cheapest\'s Car Data</string>
+    <string name="app_name" translatable="false">CarsApp</string>
+</resources>

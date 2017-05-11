@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.llinas.carrosapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.example.llinas.carrosapp.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.llinas.carrosapp.Formulario" />
+        <activity android:name="com.example.llinas.carrosapp.Principal" />
+        <activity android:name="com.example.llinas.carrosapp.Reportes" />
+        <activity android:name="com.example.llinas.carrosapp.ReportesPac.Reporte1" />
+        <activity android:name="com.example.llinas.carrosapp.ReportesPac.Reporte2" />
+        <activity android:name="com.example.llinas.carrosapp.ReportesPac.Reporte3" />
+        <activity android:name="com.example.llinas.carrosapp.ReportesPac.Reporte4" />
+        <activity android:name="com.example.llinas.carrosapp.ReportesPac.Reporte5" />
+        <activity android:name="com.example.llinas.carrosapp.ReportesPac.Reporte6"></activity>
+    </application>
+
+</manifest>
